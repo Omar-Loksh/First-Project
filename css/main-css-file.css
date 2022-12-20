@@ -101,7 +101,7 @@ ul {
 }
 @keyframes go-left {
  50% {
-  left: 0;
+  left: 0.0;
   width: 14px;
   height: 14px;
  }
